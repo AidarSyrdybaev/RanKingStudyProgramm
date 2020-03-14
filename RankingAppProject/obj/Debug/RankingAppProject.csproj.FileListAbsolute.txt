@@ -7,3 +7,4 @@ C:\Users\Aidar\Desktop\RankingAppProject\RankingAppProject\obj\Debug\RankingAppP
 C:\Users\Aidar\Desktop\RankingAppProject\RankingAppProject\obj\Debug\RankingAppProject.csproj.GenerateResource.cache
 C:\Users\Aidar\Desktop\RankingAppProject\RankingAppProject\obj\Debug\RankingAppProject.exe
 C:\Users\Aidar\Desktop\RankingAppProject\RankingAppProject\obj\Debug\RankingAppProject.pdb
+C:\Users\Aidar\Desktop\RankingAppProject\RankingAppProject\obj\Debug\RankingAppProject.AuthorizationForm.resources

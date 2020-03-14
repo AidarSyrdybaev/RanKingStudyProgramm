@@ -10,13 +10,27 @@ using System.Windows.Forms;
 
 namespace RankingAppProject
 {
-    public partial class AnswerForm : Form
+    public partial class AuthorizationForm : Form
     {
-        public AnswerForm()
+        public bool LoginCheck { get; internal set; }
+        public AuthorizationForm()
         {
             InitializeComponent();
         }
 
+        private void InputLoginButton_Click(object sender, EventArgs e)
+        {
+            if (NameLoginTextBox.Text == "TestName" && PasswordTextBox.Text == "TestPassword")
+            {
+                MainForm mainForm = new MainForm();
+                LoginCheck = true;
+                mainForm.Show();
+            }
+        }
 
+        private void AuthorizationForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
