@@ -1,0 +1,9 @@
+C:\Users\Aidar\Desktop\RankingAppProject\RankingAppProject\bin\Debug\RankingAppProject.exe.config
+C:\Users\Aidar\Desktop\RankingAppProject\RankingAppProject\bin\Debug\RankingAppProject.exe
+C:\Users\Aidar\Desktop\RankingAppProject\RankingAppProject\bin\Debug\RankingAppProject.pdb
+C:\Users\Aidar\Desktop\RankingAppProject\RankingAppProject\obj\Debug\RankingAppProject.csprojAssemblyReference.cache
+C:\Users\Aidar\Desktop\RankingAppProject\RankingAppProject\obj\Debug\RankingAppProject.MainForm.resources
+C:\Users\Aidar\Desktop\RankingAppProject\RankingAppProject\obj\Debug\RankingAppProject.Properties.Resources.resources
+C:\Users\Aidar\Desktop\RankingAppProject\RankingAppProject\obj\Debug\RankingAppProject.csproj.GenerateResource.cache
+C:\Users\Aidar\Desktop\RankingAppProject\RankingAppProject\obj\Debug\RankingAppProject.exe
+C:\Users\Aidar\Desktop\RankingAppProject\RankingAppProject\obj\Debug\RankingAppProject.pdb
