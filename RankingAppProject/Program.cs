@@ -16,7 +16,12 @@ namespace RankingAppProject
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new AuthorizationForm());
+            AuthorizationForm form = new AuthorizationForm();
+            Application.Run(form);
+            if (form.LoginCheck)
+            {
+                Application.Run(new MainForm());
+            }
         }
     }
 }

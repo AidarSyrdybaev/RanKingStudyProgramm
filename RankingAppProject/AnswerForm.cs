@@ -24,13 +24,12 @@ namespace RankingAppProject
             {
                 MainForm mainForm = new MainForm();
                 LoginCheck = true;
-                mainForm.Show();
+                Close();
+                return;
             }
+            MessageBox.Show("Логин или пароль были введены некорректно");
+            
         }
 
-        private void AuthorizationForm_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }
